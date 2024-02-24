@@ -1,0 +1,101 @@
+CustomerID,CustomerName,Email,Phone,State
+1,Kaitlyn,kaitlyn.m.stewart@live.com,218-505-6128,New York
+2,Nicole,njperez23@ymail.com,814-911-1269,Texas
+3,Theodore,t_a@hotmail.com,641-956-3357,Oklahoma
+4,Timothy,t_scott@ymail.com,218-605-0683,California
+5,Anna,anna_baker@outlook.com,605-119-0949,Texas
+6,Alexandra,abrown@gmail.com,361-784-1832,Kansas
+7,Kyle,k_howard@aol.com,605-331-9124,Pennsylvania
+8,Timothy,t_j_jenkins@aol.com,626-706-2233,New York
+9,Matthew,matthew_william_sanders@live.com,272-856-6539,Connecticut
+10,Kaitlyn,kaitlyn.mitchell@outlook.com,662-922-1256,New York
+11,Kevin,kevinmsmith@outlook.com,315-828-1880,Illinois
+12,Isaac,isaac_william_parker@live.com,706-573-5279,Indiana
+13,Brittany,brittany.kay.collins@hotmail.com,971-467-1501,Massachusetts
+14,Maria,mthomas@rocketmail.com,325-222-0954,Alabama
+15,Ethan,e_j_campbell@gmail.com,804-919-6907,Michigan
+16,Kelsey,kelseygraceperry@aol.com,906-281-3463,New York
+17,Courtney,courtney.grace@outlook.com,307-094-2831,Massachusetts
+18,Alexandra,almartinez@yahoo.com,915-778-1213,Virginia
+19,Amber,ambermbryant@rocketmail.com,202-711-9220,Georgia
+20,Eleanor,eleanoryoung@aol.com,757-917-2241,California
+21,Alexandra,a_m@live.com,608-122-6988,Pennsylvania
+22,Charlotte,charlotte.g.cooper@hotmail.com,917-730-2165,Illinois
+23,Stephen,s_price@live.com,734-414-7974,Connecticut
+24,Amelia,amelia.coleman@outlook.com,973-523-8417,Iowa
+25,Theodore,theodore_adams@outlook.com,551-203-6979,Kentucky
+26,Sebastian,sebastiandavidmoore@yahoo.com,702-863-6979,Indiana
+27,Jeremy,jeremy_a_watson@aol.com,442-810-5694,Alabama
+28,Grace,g.taylor@yahoo.com,469-580-5832,Arkansas
+29,Danielle,daniellel91@outlook.com,763-486-5472,Ohio
+30,Charles,c_e18@ymail.com,502-061-1374,South Carolina
+31,Jonathan,jonathanaparker@aol.com,224-626-0006,Ohio
+32,Lillian,lillian_margaret@rocketmail.com,312-706-2012,Indiana
+33,Sean,sean.ramirez9@aol.com,773-621-8159,North Carolina
+34,Nicole,n_parker@live.com,574-279-2525,South Dakota
+35,Amanda,ammartin97@outlook.com,703-750-5249,Pennsylvania
+36,Theodore,tbryant@ymail.com,802-318-5867,Tennessee
+37,Amelia,a_roberts@live.com,504-889-2732,Colorado
+38,Mark,mark.russell@ymail.com,347-045-1873,Texas
+39,Anna,a.j.bennett@gmail.com,678-283-0014,South Dakota
+40,Allison,allisonbennett53@ymail.com,970-306-3427,District of Columbia
+41,Tyler,t_l_wilson@live.com,423-959-7786,New Hampshire
+42,Theodore,t.w.sanders@aol.com,260-996-3458,Pennsylvania
+43,Courtney,crphillips@outlook.com,747-380-2014,Nebraska
+44,Kelsey,kelsey_may_howard@gmail.com,336-310-8057,Indiana
+45,Charles,charlesagreen@aol.com,806-662-7095,Washington
+46,Nicholas,nicholas_george_wilson@yahoo.com,574-011-8933,Connecticut
+47,Evelyn,e_ward@live.com,913-301-9560,Michigan
+48,Heather,hmclark@hotmail.com,770-439-1261,South Dakota
+49,Olivia,o_f_torres@aol.com,870-369-8903,Montana
+50,Jennifer,j.a.jackson@yahoo.com,417-757-2867,Ohio
+51,Erin,erinbrooks@ymail.com,408-974-5857,Georgia
+52,Kyle,kyle.henry45@yahoo.com,361-539-5246,Virginia
+53,Abigail,abigail_k_wilson@ymail.com,530-486-3602,Georgia
+54,Kaitlyn,kaitlyndawnperry74@yahoo.com,510-196-1903,Florida
+55,Patrick,patrick.ward@gmail.com,484-446-7601,Missouri
+56,Chelsea,chelsea_perez89@hotmail.com,747-321-8710,California
+57,Olivia,o_hayes@aol.com,272-467-5031,Wisconsin
+58,Hannah,h.n.evans@hotmail.com,561-626-2067,Florida
+59,Danielle,danielle_lee@rocketmail.com,678-036-1882,New York
+60,Amber,a_m_morris@gmail.com,856-184-6936,Montana
+61,Megan,m_l_peterson41@ymail.com,862-345-8872,Tennessee
+62,Laura,lperez@rocketmail.com,530-013-5803,West Virginia
+63,Sean,seanjohnrussell@ymail.com,662-493-6464,Georgia
+64,Jason,jlopez@gmail.com,424-233-4241,Arkansas
+65,Eleanor,e_m_ross21@rocketmail.com,917-055-4114,California
+66,Jason,jrogers@live.com,347-650-3437,District of Columbia
+67,Austin,a.bennett@yahoo.com,319-726-3371,Illinois
+68,Rebecca,rebeccayoung@outlook.com,580-481-3460,California
+69,Amelia,alrichardson@rocketmail.com,623-461-9383,Massachusetts
+70,Gabriel,gabriel_allen_morgan@ymail.com,316-334-8541,Florida
+71,Steven,s_m_harris94@aol.com,503-754-6297,Nevada
+72,Theodore,t_c_butler@rocketmail.com,936-095-7731,Texas
+73,Gabriel,g_s@outlook.com,956-338-2899,Mississippi
+74,Sebastian,swallen@rocketmail.com,434-863-2603,Hawaii
+75,Natalie,natalie@live.com,240-591-9344,Illinois
+76,Olivia,olivia_lee@rocketmail.com,414-123-5375,Kentucky
+77,Jennifer,jennifer.m.gonzales@live.com,432-701-3174,California
+78,Brandon,brandon.butler26@live.com,917-419-2905,New Hampshire
+79,Mateo,mthomas@ymail.com,605-058-4199,New Hampshire
+80,Brittany,bjmartin51@live.com,312-074-5810,North Dakota
+81,Jose,j_m_robinson@gmail.com,443-100-9633,Iowa
+82,Michael,m_j_allen@yahoo.com,847-064-4231,New York
+83,Steven,steven_scott_perez@hotmail.com,734-227-4923,Washington
+84,Victoria,vpatterson@aol.com,650-750-4131,Colorado
+85,Benjamin,b_j_cook@hotmail.com,615-827-1856,District of Columbia
+86,Layla,laylainelson96@aol.com,701-374-5660,Kentucky
+87,Julian,j.a@live.com,737-168-9495,Ohio
+88,Amber,amber.griffin@gmail.com,903-391-7217,Alaska
+89,Amber,amberrichardson@gmail.com,586-047-2080,New York
+90,Jose,jose_hall9@aol.com,813-004-9108,Massachusetts
+91,Jessica,jessicabaker@hotmail.com,432-364-9043,Pennsylvania
+92,Samuel,s.jenkins@gmail.com,267-315-6778,Virginia
+93,Christina,christina_elizabeth_brooks23@outlook.com,906-241-6336,Alaska
+94,Ashley,ashley_turner@outlook.com,408-944-2777,Louisiana
+95,Chelsea,c.l.scott@outlook.com,360-228-3054,New Hampshire
+96,Samantha,s_morgan@gmail.com,629-016-1226,Pennsylvania
+97,Zachary,z.long@rocketmail.com,520-663-6781,North Dakota
+98,Kayla,k.turner@yahoo.com,719-040-6560,Pennsylvania
+99,Isaac,i_lopez@rocketmail.com,779-264-4917,Pennsylvania
+100,Mary,mary_g_perry@gmail.com,773-623-7453,Montana
